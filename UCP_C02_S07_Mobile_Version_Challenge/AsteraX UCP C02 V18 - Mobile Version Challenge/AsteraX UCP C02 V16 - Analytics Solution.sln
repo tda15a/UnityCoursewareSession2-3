@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio for Mac
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsteraX UCP C02 V16 - Analytics Solution", "AsteraX UCP C02 V16 - Analytics Solution.csproj", "{799885ED-52A2-1D27-DB20-801F541AB8F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsteraX UCP C02 V16 - Analytics Solution.Plugins", "AsteraX UCP C02 V16 - Analytics Solution.Plugins.csproj", "{548E69BE-BD35-CAF1-6493-595ACF1DD58D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsteraX UCP C02 V16 - Analytics Solution.Editor.Plugins", "AsteraX UCP C02 V16 - Analytics Solution.Editor.Plugins.csproj", "{50B9467E-5EC0-880D-8A6A-72BBAE4F50F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsteraX UCP C02 V16 - Analytics Solution.Editor", "AsteraX UCP C02 V16 - Analytics Solution.Editor.csproj", "{3448FEDD-1E1A-7807-B498-75C301920E37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{799885ED-52A2-1D27-DB20-801F541AB8F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{799885ED-52A2-1D27-DB20-801F541AB8F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{799885ED-52A2-1D27-DB20-801F541AB8F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{799885ED-52A2-1D27-DB20-801F541AB8F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{548E69BE-BD35-CAF1-6493-595ACF1DD58D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{548E69BE-BD35-CAF1-6493-595ACF1DD58D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{548E69BE-BD35-CAF1-6493-595ACF1DD58D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{548E69BE-BD35-CAF1-6493-595ACF1DD58D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50B9467E-5EC0-880D-8A6A-72BBAE4F50F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50B9467E-5EC0-880D-8A6A-72BBAE4F50F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50B9467E-5EC0-880D-8A6A-72BBAE4F50F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50B9467E-5EC0-880D-8A6A-72BBAE4F50F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3448FEDD-1E1A-7807-B498-75C301920E37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3448FEDD-1E1A-7807-B498-75C301920E37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3448FEDD-1E1A-7807-B498-75C301920E37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3448FEDD-1E1A-7807-B498-75C301920E37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

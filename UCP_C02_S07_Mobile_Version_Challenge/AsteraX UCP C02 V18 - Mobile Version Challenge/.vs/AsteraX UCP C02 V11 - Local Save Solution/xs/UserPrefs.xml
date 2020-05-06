@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{4B478CDF-9FFD-DD92-E448-69440D2C914E}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/__Scripts/AchievementManager.cs">
+    <Files>
+      <File FileName="Assets/__Scripts/AchievementManager.cs" Line="118" Column="10" />
+      <File FileName="Assets/__Scripts/SaveGameManager.cs" Line="31" Column="27" />
+      <File FileName="Assets/__Scripts/AsteraX.cs" Line="516" Column="5" />
+      <File FileName="Assets/__Scripts/GameOverPanel.cs" Line="95" Column="56" />
+      <File FileName="Assets/__Scripts/TitleScreenPanel.cs" Line="16" Column="32" />
+      <File FileName="Assets/__Scripts/ActiveOnlyDuringSomeGameStates.cs" Line="62" Column="40" />
+      <File FileName="Assets/__Scripts/AchievementPopUp.cs" Line="142" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AsteraX_220UCP_220C02_220V11_220-_220Local_220Save_220Solution PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>

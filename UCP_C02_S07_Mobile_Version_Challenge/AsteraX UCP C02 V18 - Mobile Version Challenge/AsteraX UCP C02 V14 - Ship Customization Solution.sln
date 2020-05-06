@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio for Mac
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsteraX UCP C02 V14 - Ship Customization Solution", "AsteraX UCP C02 V14 - Ship Customization Solution.csproj", "{C877B74E-476C-6089-6B3D-22D9E63D6FBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsteraX UCP C02 V14 - Ship Customization Solution.Plugins", "AsteraX UCP C02 V14 - Ship Customization Solution.Plugins.csproj", "{0F2F2B27-2912-DC2F-2B18-D70A1C5F97A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsteraX UCP C02 V14 - Ship Customization Solution.Editor.Plugins", "AsteraX UCP C02 V14 - Ship Customization Solution.Editor.Plugins.csproj", "{AE30F440-6B92-98F5-D114-459B3B6AA283}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsteraX UCP C02 V14 - Ship Customization Solution.Editor", "AsteraX UCP C02 V14 - Ship Customization Solution.Editor.csproj", "{31B96D65-D22C-515C-34A8-51ED936E92E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C877B74E-476C-6089-6B3D-22D9E63D6FBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C877B74E-476C-6089-6B3D-22D9E63D6FBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C877B74E-476C-6089-6B3D-22D9E63D6FBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C877B74E-476C-6089-6B3D-22D9E63D6FBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F2F2B27-2912-DC2F-2B18-D70A1C5F97A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F2F2B27-2912-DC2F-2B18-D70A1C5F97A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F2F2B27-2912-DC2F-2B18-D70A1C5F97A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F2F2B27-2912-DC2F-2B18-D70A1C5F97A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE30F440-6B92-98F5-D114-459B3B6AA283}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE30F440-6B92-98F5-D114-459B3B6AA283}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE30F440-6B92-98F5-D114-459B3B6AA283}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE30F440-6B92-98F5-D114-459B3B6AA283}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31B96D65-D22C-515C-34A8-51ED936E92E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31B96D65-D22C-515C-34A8-51ED936E92E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31B96D65-D22C-515C-34A8-51ED936E92E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31B96D65-D22C-515C-34A8-51ED936E92E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

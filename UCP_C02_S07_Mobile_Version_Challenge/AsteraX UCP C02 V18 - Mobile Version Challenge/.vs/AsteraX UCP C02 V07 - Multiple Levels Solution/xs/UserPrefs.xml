@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{E1EDACCC-BBEF-A876-BC44-35CAA0F15524}|">
+  <MonoDevelop.Ide.ItemProperties.AsteraX_220UCP_220C02_220V07_220-_220Multiple_220Levels_220Solution PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/__Scripts/Bullet.cs">
+    <Files>
+      <File FileName="Assets/__Scripts/AsteraX.cs" Line="373" Column="30" />
+      <File FileName="Assets/__Scripts/LevelAdvancePanel.cs" Line="78" Column="17" />
+      <File FileName="Assets/__Scripts/Asteroid.cs" Line="246" Column="1" />
+      <File FileName="Assets/__Scripts/ActiveOnlyDuringSomeGameStates.cs" Line="34" Column="17" />
+      <File FileName="Assets/__Scripts/TitleScreenPanel.cs" Line="10" Column="20" />
+      <File FileName="Assets/__Scripts/Bullet.cs" Line="31" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

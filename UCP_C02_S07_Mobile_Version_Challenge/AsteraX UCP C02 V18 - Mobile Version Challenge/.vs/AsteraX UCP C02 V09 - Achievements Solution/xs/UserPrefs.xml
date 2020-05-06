@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{1D8A06CE-EF65-6F99-8F63-03FF7124B697}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/__Scripts/AchievementManager.cs">
+    <Files>
+      <File FileName="Assets/__Scripts/AchievementManager.cs" Line="217" Column="39" />
+      <File FileName="Assets/__Scripts/AchievementPopUp.cs" Line="37" Column="20" />
+      <File FileName="Assets/__Scripts/Bullet.cs" Line="17" Column="6" />
+      <File FileName="Assets/__Scripts/Asteroid.cs" Line="207" Column="13" />
+      <File FileName="Assets/__Scripts/AsteraX.cs" Line="531" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.AsteraX_220UCP_220C02_220V09_220-_220Achievements_220Solution PreferredExecutionTarget="Unity.Editor" />
+</Properties>
